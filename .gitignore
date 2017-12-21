@@ -1,0 +1,16 @@
+!.gitignore
+*pyc
+*~
+\#*\#
+*log
+cookies
+*.pdf
+*.DS_Store
+*.pyc
+__pycache__/
+nb-configuration.xml
+*.sqlite3
+venv/
+conf.ini
+*.whl
+.vscode/
